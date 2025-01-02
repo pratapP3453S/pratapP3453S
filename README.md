@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **pratappanigrahy93@gmail.com**
 
-- 📄 Know about my experiences [hello](hello)
-
-- ⚡ Fun fact **hello**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/home" height="30" width="40" /></a>
