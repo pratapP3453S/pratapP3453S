@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapp3453s&label=Profile%20views&color=0e75b6&style=flat" alt="pratapp3453s" /> </p>
 
-- 🔭 I’m currently pursuing Bsc Computer Science [hello](hello)
+- 🔭 I’m currently pursuing Bsc Computer Science
 
-- 🌱 I’m currently learning **React Native,**
+//- 🌱 I’m currently learning **React Native,**
 
-- 👯 I’m looking to collaborate on [hello](hello)
+//- 👯 I’m looking to collaborate on [hello](hello)
 
 - 🤝 I’m looking for help with [hello](hello)
 
