@@ -5,18 +5,6 @@
 
 - 🔭 I’m currently pursuing Bsc Computer Science
 
-//- 🌱 I’m currently learning **React Native,**
-
-//- 👯 I’m looking to collaborate on [hello](hello)
-
-- 🤝 I’m looking for help with [hello](hello)
-
-- 👨‍💻 All of my projects are available at [hello](hello)
-
-- 📝 I regularly write articles on [hello](hello)
-
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **pratappanigrahy93@gmail.com**
 
 - 📄 Know about my experiences [hello](hello)
