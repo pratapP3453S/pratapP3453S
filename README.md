@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • Java Full Stack • MERN Developer</h3>
 
 <p align="center">
-  Building scalable applications with a focus on backend systems and exploring enterprise development
+  Building scalable applications with a focus on backend systems and real-world problem solving
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ## 🚀 About Me
 
 * 🎓 B.Sc. Computer Science student
-* 💻 Full Stack Developer (MERN) with growing focus on Java-based backend systems
+* 💻 Full Stack Developer (MERN) with strong backend focus
 * ⚙️ Experienced in building real-world applications with authentication, payments & scalable APIs
-* 🧠 Currently exploring enterprise development and expanding into Swift
+* 🧠 Currently focusing on Java Full Stack development and enterprise-level application architecture
 
 ---
 
@@ -29,7 +29,7 @@
 ### 🔹 Imaginify (AI SaaS Platform)
 
 * Built a full-stack AI image processing platform
-* Features include restoration, object removal, generative fill & background removal
+* Features: restoration, object removal, generative fill & background removal
 * Implemented authentication, credit system & payment integration
 
 ---
@@ -66,7 +66,7 @@
 ## 🎯 Current Focus
 
 * Strengthening Java Full Stack development
-* Exploring enterprise application architecture
-* Expanding into Swift and cross-platform understanding
+* Building scalable backend systems
+* Improving system design and architecture
 
 ---
