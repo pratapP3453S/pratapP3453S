@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratap Panigrahy</h1>
-<h3 align="center">Software Engineer • MERN Stack Developer • Backend Focused</h3>
+<h3 align="center">Software Engineer • Java Full Stack • MERN Developer</h3>
 
 <p align="center">
-  Building scalable backend systems & real-world full-stack applications
+  Building scalable applications with a focus on backend systems and exploring enterprise development
 </p>
 
 ---
@@ -10,16 +10,16 @@
 ## 🚀 About Me
 
 * 🎓 B.Sc. Computer Science student
-* 💻 MERN Stack Developer with strong backend focus
-* ⚙️ Skilled in building scalable APIs, auth systems & payment integrations
-* 🧠 Interested in system design & real-world engineering problems
+* 💻 Full Stack Developer (MERN) with growing focus on Java-based backend systems
+* ⚙️ Experienced in building real-world applications with authentication, payments & scalable APIs
+* 🧠 Currently exploring enterprise development and expanding into Swift
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,mysql,java,cpp,python,redux,tailwind,git,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,react,nextjs,mongodb,mysql,cpp,python,redux,tailwind,git,linux,postman" />
 </p>
 
 ---
@@ -28,30 +28,25 @@
 
 ### 🔹 Imaginify (AI SaaS Platform)
 
-* AI-based image processing platform (restore, remove, generate)
-* Credit system + payments integration
-* Built with scalable architecture
-
-### 🔹 TripKar (Tourism Platform)
-
-* Centralized trip planning system
-* Integrates transport, hotels & attractions
-* Custom backend & payment flow (in progress)
-
-### 🔹 Learning Management System
-
-* 200+ active users
-* Batch-based class access control
-* Time-based meeting restriction logic
+* Built a full-stack AI image processing platform
+* Features include restoration, object removal, generative fill & background removal
+* Implemented authentication, credit system & payment integration
 
 ---
 
-## 📈 GitHub Stats
+### 🔹 TripKar (Tourism Platform)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratapp3453s&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratapp3453s&theme=default" height="150"/>
-</p>
+* Centralized trip planning system integrating transport, hotels & attractions
+* Designed scalable backend structure
+* Working on custom payment system
+
+---
+
+### 🔹 Learning Management System
+
+* Platform with 200+ active users
+* Implemented batch-based access control
+* Built time-based meeting access restriction logic
 
 ---
 
@@ -70,8 +65,8 @@
 
 ## 🎯 Current Focus
 
-* Building production-level backend systems
-* Improving system design & scalability
-* Preparing for software engineering roles (4–5 LPA range)
+* Strengthening Java Full Stack development
+* Exploring enterprise application architecture
+* Expanding into Swift and cross-platform understanding
 
 ---
