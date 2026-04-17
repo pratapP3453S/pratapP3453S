@@ -1,92 +1,77 @@
-# Pratap Panigrahy
+<h1 align="center">Hi 👋, I'm Pratap Panigrahy</h1>
+<h3 align="center">Software Engineer • MERN Stack Developer • Backend Focused</h3>
 
-Software Engineer | MERN Stack Developer | Backend-Focused
-
----
-
-## About Me
-
-I’m a B.Sc. Computer Science student with a strong focus on building scalable backend systems and full-stack web applications.
-
-I specialize in designing real-world applications with production-level architecture, including authentication systems, payment integrations, and modular backend structures. I enjoy solving practical problems and building systems that are efficient, maintainable, and user-focused.
+<p align="center">
+  Building scalable backend systems & real-world full-stack applications
+</p>
 
 ---
 
-## Technical Skills
+## 🚀 About Me
 
-**Backend Development**
-
-* Node.js, Express.js
-* REST API Design & Architecture
-* Authentication & Authorization (JWT, Role-Based Access)
-* Payment Integration (Stripe, Razorpay)
-* Database Design & Optimization
-
-**Frontend Development**
-
-* React.js, Next.js
-* Redux Toolkit
-* Tailwind CSS, Framer Motion
-
-**Databases**
-
-* MongoDB
-* MySQL
-
-**Other Technologies**
-
-* Java (Core + OOP)
-* C++
-* Python (Basic)
-* Git & GitHub
-* Postman
-* Linux
+* 🎓 B.Sc. Computer Science student
+* 💻 MERN Stack Developer with strong backend focus
+* ⚙️ Skilled in building scalable APIs, auth systems & payment integrations
+* 🧠 Interested in system design & real-world engineering problems
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Imaginify (AI SaaS Platform)
-
-* Built a full-stack AI-based image processing platform
-* Features: image restoration, object removal, generative fill, background removal
-* Integrated authentication, credit system, and payments
-* Tech: Next.js, MongoDB, Cloudinary, Stripe, Clerk
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,mysql,java,cpp,python,redux,tailwind,git,linux,postman" />
+</p>
 
 ---
 
-### TripKar (Tourism Platform)
+## 📌 Projects
 
-* Centralized trip planning system integrating transport, hotels, and attractions
-* Designed scalable backend structure for handling multiple services
-* Custom payment flow implementation (in progress)
-* Tech: MERN Stack
+### 🔹 Imaginify (AI SaaS Platform)
 
----
+* AI-based image processing platform (restore, remove, generate)
+* Credit system + payments integration
+* Built with scalable architecture
 
-### Learning Management System (LMS)
+### 🔹 TripKar (Tourism Platform)
 
-* Built a system with 200+ active users
-* Batch-based access control for live classes
-* Integrated meeting access control logic based on timing
+* Centralized trip planning system
+* Integrates transport, hotels & attractions
+* Custom backend & payment flow (in progress)
 
----
+### 🔹 Learning Management System
 
-## What I’m Working On
-
-* Improving backend system design and scalability
-* Building production-level MERN applications
-* Strengthening problem-solving and system design skills
+* 200+ active users
+* Batch-based class access control
+* Time-based meeting restriction logic
 
 ---
 
-## Connect With Me
+## 📈 GitHub Stats
 
-* LinkedIn: https://linkedin.com/in/pratapp93s
-* Email: [pratappanigrahy93@gmail.com](mailto:pratappanigrahy93@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pratapp3453s&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratapp3453s&theme=default" height="150"/>
+</p>
 
 ---
 
-## Focus
+## 🌐 Connect With Me
 
-Currently focused on becoming a strong backend engineer and building systems that reflect real-world engineering standards.
+<p align="center">
+  <a href="https://linkedin.com/in/pratapp93s">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="mailto:pratap93@zohomail.in">
+    <img src="https://www.vectorlogo.zone/logos/zoho/zoho-icon.svg" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* Building production-level backend systems
+* Improving system design & scalability
+* Preparing for software engineering roles (4–5 LPA range)
+
+---
